@@ -5,7 +5,7 @@ package com.jcq.dp.adapter;
  */
 public class Adapter {
 
-    private Net net;
+    private final Net net;
 
     public Adapter(Net net) {
         this.net = net;
