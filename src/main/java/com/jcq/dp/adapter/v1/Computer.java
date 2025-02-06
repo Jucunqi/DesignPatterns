@@ -1,4 +1,4 @@
-package com.jcq.dp.adapter;
+package com.jcq.dp.adapter.v1;
 
 /**
  * 电脑类 ，不能直接插网线，口不一样

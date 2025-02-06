@@ -1,4 +1,4 @@
-package com.jcq.dp.adapter;
+package com.jcq.dp.adapter.v1;
 
 /**
  * 网线类，可以上网功能
